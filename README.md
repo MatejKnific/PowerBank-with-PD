@@ -1,5 +1,5 @@
-# PowerBank-with-PD
-45w usbc powerbank with PD and eink display
+# 45 W USB-C Power Bank
+
 
 I designed this power bank around a two-cell Li-ion battery, with a 45 W USB Power Delivery target and an e-ink display. The board pairs a dedicated USB-C PD controller with a buck-boost battery charger. A separate protection IC monitors the cells, and an STM32 handles the user interface.
 
